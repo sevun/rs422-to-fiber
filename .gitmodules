@@ -1,0 +1,3 @@
+[submodule "hardware/Library"]
+	path = hardware/Library
+	url = ../library-altium.git

@@ -1,0 +1,39 @@
+# General
+*.gz
+*.raw
+*.log
+*.pdf
+.DS_Store
+Thumbs.db
+
+# Altium
+*.AnnotationPreview
+*.err
+*.PrjPCBStructure
+*.PcbDoc.htm
+__Previews
+History
+Design\ Rule*.*
+hardware/Project\ Logs*
+*PM.WAS
+*AM.WAS
+
+# Eclipse
+.settings
+.launches
+Debug
+targetConfigs
+
+#Development Files
+testing/*
+
+# Arlin
+x64
+.vs
+VisualGDB
+cvibuild.*
+*.exe
+*.iobj
+*.ilk
+*.pdb
+*.ipdb
