@@ -1,0 +1,11 @@
+2 LAYER, 0.064" FR4
+1.5 OZ CU Outer
+BLACK MASK
+WHITE SILK
+ENIG
+
+Controlled Dielectric (±10%): No
+Controlled Impedance (±10%): No
+
+Pick And Place Required: No
+Lead Free Assembly Required: No

@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [rs422-to-fiber.PrjPcb]
+   Generated File[xxx-xx-xxxx.GTO]
+   Generated File[xxx-xx-xxxx.GTP]
+   Generated File[xxx-xx-xxxx.GTS]
+   Generated File[xxx-xx-xxxx.GTL]
+   Generated File[xxx-xx-xxxx.GBL]
+   Generated File[xxx-xx-xxxx.GBS]
+   Generated File[xxx-xx-xxxx.GBP]
+   Generated File[xxx-xx-xxxx.GBO]
+   Generated File[xxx-xx-xxxx.GM1]
+   Generated File[xxx-xx-xxxx.GM7]
+   Generated File[xxx-xx-xxxx.GM8]
+   Generated File[xxx-xx-xxxx.GM13]
+   Generated File[xxx-xx-xxxx.GM15]
+   Generated File[xxx-xx-xxxx.GPT]
+   Generated File[xxx-xx-xxxx.GPB]
+   Generated File[xxx-xx-xxxx.RUL]
+   Generated File[xxx-xx-xxxx.EXTREP]
+   Generated File[xxx-xx-xxxx.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 11:33:03 AM On 12/9/2020
